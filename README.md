@@ -1,7 +1,5 @@
 # Multithreaded-News-Aggregator-in-Java
 
-# Parallel News Article Processing System
-
 ## 1) Feedback
 
 ### What I liked:
@@ -195,4 +193,3 @@ Metrics:
 - After 4 threads, overhead exceeds benefits (8 threads brings only +5.3% improvement)
 
 **Note**: These times may vary; they don't always give the same values.
-# Multithreaded-News-Aggregator-in-Java
